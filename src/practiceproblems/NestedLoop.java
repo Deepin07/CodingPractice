@@ -1,4 +1,4 @@
-package BasicCoding;
+package practiceproblems;
 
 public class NestedLoop {
 
